@@ -23,13 +23,23 @@ Your task is to examine the organization’s data in their `employees` and `log_
 
 ### Step 1: Review "*Table Formats*" Document
 
-[Table Formats](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/16319051/Table.Formats.docx)
+This document describes how the organization's tables are organized.
 
-### Step 2: 
+[Table Formats](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/16322580/Table.Formats.pdf)
 
+### Step 2: Retrieve after hours failed login attempts
 
+### Step 3: Retrieve login attempts on specific dates
 
-### Step 3: Write the Document
+### Step 4: Retrieve login attempts outside of Mexico
+
+### Step 5: Retrieve employees in Marketing
+
+### Step 6: Retrieve employees in Finance or Sales
+
+### Step 7: Retrieve all employees not in IT
+
+### Step 8: Write the Document
 
 > [!IMPORTANT]
 > [Apply Filters to SQL Queries](https://docs.google.com/viewer?url=)
