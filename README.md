@@ -12,14 +12,13 @@ To utilize SQL queries in MariaDB to investigate and mitigate potential security
 
 ### Skills Learned
 
-- Creating and executing SQL queries in MariaDB
+- Creating and executing SQL queries
 - Using SQL operators (AND, OR, NOT, LIKE) for data filtering
 - Investigating security issues through data analysis
 
 ### Tools Used
 
 - MariaDB
-- Word processing software for document creation
 
 ## Steps
 
@@ -77,9 +76,9 @@ Finally, I needed to find employees who were not part of the Information Technol
 
 > The != operator is used in the WHERE clause to exclude records where the department is 'Information Technology'.
 
+<!--
 ### Step 8: Write the Document
 
-<!--
 > [!IMPORTANT]
 > [Apply Filters to SQL Queries](https://docs.google.com/viewer?url=)
 -->
