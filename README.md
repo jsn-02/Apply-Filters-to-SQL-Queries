@@ -18,7 +18,7 @@ To utilize SQL queries in MariaDB to investigate and mitigate potential security
 
 ### Tools Used
 
-- MariaDB
+<img src="https://img.shields.io/badge/-MariaDB-003545?&style=for-the-badge&logo=mariadb&logoColor=white" />
 
 ## Steps
 
